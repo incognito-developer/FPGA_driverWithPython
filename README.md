@@ -1,6 +1,6 @@
 # FPGA_driverWithPython
 
-#english
+#####english
 
 To share "how to read and write driver modules with python". Devices and drivers are different for each users, so please read it for reference only.
 
@@ -16,7 +16,7 @@ This project was created assuming a digital door lock. !!!NOT A REAL DIGITAL DOO
 The creator(me) take no responsibility for this project. If there is a problem with the license, please contact us and we will correct or delete it.
 
 
-#한국어
+#####한국어
 
 이 프로젝트는 파이썬으로 디바이스 드라이버를 불러오고, 디바이스 장치를 사용하는 방법에 대해 참고용으로 올려놓은 파일입니다.
 
