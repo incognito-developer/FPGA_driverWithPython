@@ -1,6 +1,7 @@
 # FPGA_driverWithPython
 
 #english
+
 To share "how to read and write driver modules with python". Devices and drivers are different for each users, so please read it for reference only.
 
 This project does not include "device driver, modules, any other files". if you needed to get device drivers, connect manufactures or make yourself.
@@ -16,6 +17,7 @@ The creator(me) take no responsibility for this project. If there is a problem w
 
 
 #한국어
+
 이 프로젝트는 파이썬으로 디바이스 드라이버를 불러오고, 디바이스 장치를 사용하는 방법에 대해 참고용으로 올려놓은 파일입니다.
 
 장비와 장치 드라이버는 사용자마다 다르므로, 이 프로젝트는 참고용으로만 봐주십시오.
